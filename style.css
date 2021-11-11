@@ -30,7 +30,7 @@ color:red;
 text-transform:capitalize;
 }
 .container {
-display:inline-block;  
+display:block;  
 border-width:10px;
 width:195px 200px 210px 205px;
 padding:5px;
