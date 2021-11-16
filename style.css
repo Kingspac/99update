@@ -32,14 +32,14 @@ text-transform:capitalize;
 .container {
 display:block;
 display: list-item block
-border-width:10px;
-width:180px;
-padding:5px;
+border-width:10p;
+width:200px;
+padding:5p;
 box-shadow:lenth;
 
 float:left;
 margin:5px;
-height:px;
+height:190px;
 color:#FFB6B3;
 background-color:#630300;
 }
