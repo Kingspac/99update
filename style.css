@@ -30,19 +30,18 @@ color:red;
 text-transform:capitalize;
 }
 .container {
-display:block;
-display: list-item block;
-border-width:10p;
-width:190px;
-padding:5p;
+display:block;  
+border-width:10px;
+width:195px;
+padding:5px;
 box-shadow:lenth;
-
-float:left;
-margin:5px;
-height:200px;
+border-collapse:collapse;
+float:none;
+margin:200x;
+height:195px;
 color:#FFB6B3;
 background-color:#630300;
-}
+  {
 
 a {
 color:gray;
