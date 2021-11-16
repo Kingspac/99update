@@ -46,7 +46,18 @@ background-color:#630300;
 a {
 color:gray;
 font:family;
-text-decoration:none;
+text.container {
+display:block;  
+border-width:10px;
+width:195px;
+padding:5px;
+box-shadow:lenth;
+border-collapse:collapse;
+float:none;
+margin:200x;
+height:195px;
+color:#FFB6B3;
+background-color:#630300;decoration:none;
 }
 .note {
 text-align:center;
@@ -58,7 +69,7 @@ text-decoration:none;
 width:345px;
 word-break:loose;
 white-space:normal;
-text-transform:capitalize;
+nsform:capitalize;
 align-content:center;
 Height:200px;
 }
