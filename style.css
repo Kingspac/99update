@@ -31,9 +31,9 @@ text-transform:capitalize;
 }
 .container {
 display:block;
-display: list-item block
+display: list-item block;
 border-width:10p;
-width:200px;
+width:180px;
 padding:5p;
 box-shadow:lenth;
 
