@@ -30,13 +30,14 @@ color:red;
 text-transform:capitalize;
 }
 .container {
-display:block;  
+display:block;
+display: list-item block
 border-width:10px;
 width:195px 200px 210px 205px;
 padding:5px;
 box-shadow:lenth;
-border-collapse:collapse;
-float:none;
+
+float:left;
 margin:200x;
 height:188px 190px 200px 192px;
 color:#FFB6B3;
