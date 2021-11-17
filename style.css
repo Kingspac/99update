@@ -32,13 +32,13 @@ text-transform:capitalize;
 .container {
 display:block;  
 border-width:10px;
-width:70%;
+width:50%;
 padding:5px;
 box-shadow:lenth;
 border-collapse:collapse;
 float:none;
 margin:200x;
-height:70%;
+height:50%;
 color:#FFB6B3;
 background-color:#630300;
 }
