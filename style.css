@@ -17,8 +17,8 @@ margin:0%;
 padding:2%;
 border:9%;
 text-transform:uppercase;
-  align-content: center;
-  text-align: center; 
+align-content: center;
+text-align: center; 
    
 }
 .table {
@@ -80,7 +80,7 @@ align-content:center;
 }
 li {
 list-style-type:none;
-margin:5px;
+Padding:5px;
 text-align:center;
 background-color:uchsia;
 color:white;
