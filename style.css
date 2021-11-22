@@ -49,16 +49,15 @@ text-transform:capitalize;
 .container {
 display:block;
 width:140px 195px 200px 198px;
-height:195px 200px ;  
+height:195px 200px 140px;  
 padding:5%;
 margin:0%;
 border:5%   
-float:left;
 color:#FFB6B3;
 background-color:#630300;
- border-width:thick;
-  border-style: groove;
-  border-color:#FFB6B3;
+border-width:thick;
+border-style: groove;
+border-color:#FFB6B3;
 }
 
 a {
